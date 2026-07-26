@@ -73,24 +73,11 @@ The dashboard is built using a sales dataset containing:
 
 ### ☀️ Light Theme
 
-![Light Dashboard](Dashboard-Light.png)
+<img width="1394" height="805" alt="image" src="https://github.com/user-attachments/assets/50ef6733-71eb-4d47-869c-b1f3e961fa0b" />
 
 ### 🌙 Dark Theme
 
-![Dark Dashboard](Dashboard-Dark.png)
-
----
-
-## 📁 Project Structure
-
-```
-Sales-Dashboard/
-│── Sales Dashboard.pbix
-│── SalesData.xlsx
-│── Dashboard-Light.png
-│── Dashboard-Dark.png
-└── README.md
-```
+<img width="1395" height="794" alt="image" src="https://github.com/user-attachments/assets/63886d9f-b7c3-4253-9a03-98acbf3348e4" />
 
 ---
 
@@ -122,10 +109,5 @@ git clone https://github.com/yourusername/Sales-Dashboard.git
 ## 👨‍💻 Author
 
 **Trayambkesh Prajapati**
-
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
-
----
 
 ⭐ If you like this project, don't forget to give it a **Star**!
